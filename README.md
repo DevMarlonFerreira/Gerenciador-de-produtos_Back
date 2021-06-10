@@ -1,4 +1,4 @@
-# ProdutosGS_Back - Nova versão
+# ProdutosGS_Back - Nova versão consulta a https://no2gru7ua3.execute-api.us-east-1.amazonaws.com
 
 Este projeto é parte integrande do projeto ProdutosGS.
 
