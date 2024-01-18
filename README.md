@@ -10,7 +10,7 @@ Plataforma de gerenciamento de produtos.
 <!-- GETTING STARTED -->
 <h2 tabindex="-1" dir="auto"><a id="getting-started" class="anchor" aria-hidden="true" tabindex="-1" href="#getting-started">🚀 Getting Started 🚀</h2>
 
-Executar o comando "docker compose up" na raiz do projeto FRONT-END ou BACK-END.
+Executar o comando "docker compose up" na raiz do projeto.
 
 Obs: Se vier a falhar o container da API -> aguarde a completa inicializacao do container do DB e reinicie o container da API.
 
