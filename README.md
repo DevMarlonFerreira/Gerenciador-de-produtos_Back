@@ -1,12 +1,10 @@
-// Nova versão - request https://no2gru7ua3.execute-api.us-east-1.amazonaws.com
-
 <a name="readme-top"></a>
 
 <h1 align="center">Gerenciador de produtos - Back</h1>
 
 <!-- ABOUT THE PROJECT -->
 <h2 tabindex="-1" dir="auto"><a id="user-content--about-the-project" class="anchor" aria-hidden="true" tabindex="-1" href="#about-the-project">🔭 About The Project 🔭</h2>
-\
+
 Plataforma de gerenciamento de produtos.
 
 <!-- GETTING STARTED -->
