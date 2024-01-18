@@ -10,9 +10,24 @@ Plataforma de gerenciamento de produtos.
 <!-- GETTING STARTED -->
 <h2 tabindex="-1" dir="auto"><a id="getting-started" class="anchor" aria-hidden="true" tabindex="-1" href="#getting-started">🚀 Getting Started 🚀</h2>
 
-Executar o comando "docker compose up" na raiz do projeto.
+### Pré-requisitos
 
-Obs: Se vier a falhar o container da API -> aguarde a completa inicializacao do container do DB e reinicie o container da API.
+- Docker
+  
+É necessario ter instalado o [Docker](https://www.docker.com/)
+
+- Docker Compose
+  
+É necessario ter instalado o [Docker Compose](https://docs.docker.com/compose/)
+
+<!-- USAGE EXAMPLES -->
+<h2 tabindex="-1" dir="auto"><a id="user-content--usage" class="anchor" aria-hidden="true" tabindex="-1" href="#-usage">⚡ Usage ⚡</h2>
+
+1 - Executar o comando "docker compose up" na raiz do projeto.
+
+Obs: Se vier a falhar o container da API:
+1- Aguarde a completa inicializacao do container do DataBase.
+2 - Reinicie o container da API.
 
 <h2 tabindex="-1" dir="auto"><a id="user-content--built-with" class="anchor" aria-hidden="true" tabindex="-1" href="#-built-with">🔧 Built With 🔧</h2>
 
